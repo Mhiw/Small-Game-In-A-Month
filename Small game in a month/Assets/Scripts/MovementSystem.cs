@@ -23,3 +23,4 @@ public class MovementSystem : MonoBehaviour
 			rb.velocity = new Vector2(-movement_speed * Time.deltaTime, 0);
 		}
 	}
+}
